@@ -1,7 +1,5 @@
 # TP3 Azure
 
-**Groupe 3 :** 
-Nicolas HERMOSILLA
 Rantoniaina Antonio RAKOTOMALALA
 
 ## Cas n°2 : Réseaux virtuel privé et gateway
