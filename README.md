@@ -1,9 +1,5 @@
 # TP3 Azure
 
-Rantoniaina Antonio RAKOTOMALALA
-
-## Cas n°2 : Réseaux virtuel privé et gateway
-
 #### 1. Créer deux VPC. L’un contient deux machines et l’autre une seule. Utiliser les
 ```Voir fichier *.tf```
 
